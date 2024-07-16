@@ -1,0 +1,44 @@
+body
+{
+    font-family:'Courier New', Courier, monospace;
+    color:palevioletred;
+    background-color:lightpink;
+    margin:1em 10%;
+}
+
+h1
+{
+    color:palevioletred;
+    background-color:transparent;
+}
+
+a
+{
+    color:blue;
+    background-color:transparent;
+    font-weight:lighter;
+    text-decoration: none;
+}
+
+ul
+{
+    padding:0;
+}
+
+li
+{
+    float:left;
+    padding:1em;
+    list-style:none;
+}
+
+img
+{
+    display:block;
+    clear:both;
+}
+
+p
+{
+    color:blueviolet;
+}
